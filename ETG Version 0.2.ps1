@@ -1,5 +1,4 @@
 ##########################################################################################################
-# Created by: Tariq Chatur, Brianna Goulet
 # Last Modified: October 1st, 2020
 #
 # Notes:
